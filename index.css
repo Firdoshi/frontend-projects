@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 300px;
+    height: 470px;
+    align-items: center;
+    text-align: center;
+    border: 5px solid white;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 70px;
+}
+.icon img{
+    width: 265px;
+    height: 260px; 
+    margin-top: 12px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+p{
+    font-family: "Outfit", sans-serif ;
+    font-weight: 700;
+    font-size: 19px;
+    color:hsl(218, 44%, 22%);
+}
+.para1{ 
+    text-shadow: 0.3px 0.3px 1.3px rgb(143, 134, 134);
+    letter-spacing: 0.8px; 
+}
+.para2{
+    font-weight: 400;
+    margin-top: 14px;
+    font-size: 15px;
+    color: rgb(170, 169, 169);
+    width: 250px;
+    text-shadow: 0.3px 0.3px 0.3px rgb(143, 134, 134);
+}
+.ad{
+    margin: auto;
+    width: 240px;
+    height: 300px;
+}
